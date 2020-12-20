@@ -1,0 +1,8 @@
+[submodule "core12"]
+	path = core12
+	url = git@github.com:odoo/odoo.git
+	branch = 12.0
+[submodule "trust12"]
+	path = trust12
+	url = git@github.com:Trust-Code/odoo-brasil.git
+	branch = 12.0
