@@ -1,0 +1,26 @@
+altair
+bokeh==1.1.0
+cachetools>=2.0.1
+cerberus
+email_validator
+geojson==2.4.1
+matplotlib>=2.0.0
+mpld3==0.3
+#mysqlclient==2.0.1
+openpyxl
+pdf2image
+py3o.formats
+pycountry
+pygount<1.2.0
+pymssql
+pysftp
+python-barcode == 0.12.0
+python-slugify>=3.0.2
+pyzbar
+raven
+requests-mock
+shapely==1.6.4.post2
+sqlalchemy
+vcrpy-unittest
+vcrpy>=2.1.1
+webcolors==1.10
