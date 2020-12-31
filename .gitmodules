@@ -198,3 +198,23 @@
 	path = itpp-labs/mail-addons
 	url = git@github.com:itpp-labs/mail-addons.git
 	branch = 12.0
+[submodule "itpp-labs/misc-addons"]
+	path = itpp-labs/misc-addons
+	url = git@github.com:itpp-labs/misc-addons.git
+	branch = 12.0
+[submodule "oca/website"]
+	path = oca/website
+	url = git@github.com:OCA/website.git
+	branch = 12.0
+[submodule "itpp-labs/access-addons"]
+	path = itpp-labs/access-addons
+	url = git@github.com:itpp-labs/access-addons.git
+	branch = 12.0
+[submodule "itpp-labs/website-addons"]
+	path = itpp-labs/website-addons
+	url = git@github.com:itpp-labs/website-addons.git
+	branch = 12.0
+[submodule "itpp-labs/l10n-addons"]
+	path = itpp-labs/l10n-addons
+	url = git@github.com:itpp-labs/l10n-addons.git
+	branch = 12.0
