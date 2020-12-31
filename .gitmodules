@@ -182,3 +182,19 @@
 	path = l10n-brazil
 	url = git@github.com:OCA/l10n-brazil.git
 	branch = 12.0
+[submodule "oca/commission"]
+	path = oca/commission
+	url = git@github.com:OCA/commission.git
+	branch = 12.0
+[submodule "oca/l10n-brazil"]
+	path = oca/l10n-brazil
+	url = git@github.com:OCA/l10n-brazil.git
+	branch = 12.0
+[submodule "itpp-labs/pos-addons"]
+	path = itpp-labs/pos-addons
+	url = git@github.com:itpp-labs/pos-addons.git
+	branch = 12.0
+[submodule "itpp-labs/mail-addons"]
+	path = itpp-labs/mail-addons
+	url = git@github.com:itpp-labs/mail-addons.git
+	branch = 12.0
