@@ -218,3 +218,7 @@
 	path = itpp-labs/l10n-addons
 	url = git@github.com:itpp-labs/l10n-addons.git
 	branch = 12.0
+[submodule "odoo-brasil"]
+	path = odoo-brasil
+	url = git@github.com:Trust-Code/odoo-brasil.git
+	branch = 12.0
