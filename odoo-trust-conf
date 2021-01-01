@@ -1,0 +1,111 @@
+[options]
+addons_path = /opt/odoo12/core12/odoo/addons,
+              /opt/odoo12/core12/addons,
+              /opt/odoo12/itpp-labs/access-addons,
+              /opt/odoo12/itpp-labs/l10n-addons,
+              /opt/odoo12/itpp-labs/mail-addons,
+              /opt/odoo12/itpp-labs/misc-addons,
+              /opt/odoo12/itpp-labs/pos-addons,
+              /opt/odoo12/itpp-labs/website-addons,
+              /opt/odoo12/oca/l10n-brazil,
+#              /opt/odoo12/l10n-brazil,
+              /opt/odoo12/trust12,
+              /opt/odoo12/oca/account-analytic,
+              /opt/odoo12/oca/account-budgeting,
+              /opt/odoo12/oca/account-closing,
+              /opt/odoo12/oca/account-financial-reporting,
+              /opt/odoo12/oca/account-financial-tools,
+              /opt/odoo12/oca/account-invoice-reporting,
+              /opt/odoo12/oca/account-invoicing,
+              /opt/odoo12/oca/account-payment,
+              /opt/odoo12/oca/bank-payment,
+              /opt/odoo12/oca/brand,
+              /opt/odoo12/oca/commission,
+              /opt/odoo12/oca/community-data-files,
+              /opt/odoo12/oca/connector,
+              /opt/odoo12/oca/contract,
+              /opt/odoo12/oca/crm,
+              /opt/odoo12/oca/currency,
+              /opt/odoo12/oca/delivery-carrier,
+              /opt/odoo12/oca/field-service,
+              /opt/odoo12/oca/geospatial,
+              /opt/odoo12/oca/helpdesk,
+              /opt/odoo12/oca/hr,
+              /opt/odoo12/oca/knowledge,
+              /opt/odoo12/oca/management-system,
+              /opt/odoo12/oca/mis-builder,
+              /opt/odoo12/oca/partner-contact,
+              /opt/odoo12/oca/pos,
+              /opt/odoo12/oca/product-attribute,
+              /opt/odoo12/oca/project,
+              /opt/odoo12/oca/project-reporting,
+              /opt/odoo12/oca/purchase-workflow,
+              /opt/odoo12/oca/queue,
+              /opt/odoo12/oca/reporting-engine,
+              /opt/odoo12/oca/sale-reporting,
+              /opt/odoo12/oca/sale-workflow,
+              /opt/odoo12/oca/server-backend,
+              /opt/odoo12/oca/server-env,
+              /opt/odoo12/oca/server-tools,
+              /opt/odoo12/oca/server-ux,
+              /opt/odoo12/oca/stock-logistics-barcode,
+              /opt/odoo12/oca/stock-logistics-warehouse,
+              /opt/odoo12/oca/stock-logistics-workflow,
+              /opt/odoo12/oca/storage,
+              /opt/odoo12/oca/timesheet,
+              /opt/odoo12/oca/web,              
+admin_passwd = admin
+csv_internal_sep = ,
+data_dir = /home/yota/.local/share/Odoo
+db_host = False
+db_maxconn = 64
+db_name = odoo12ytdemo
+db_password = False
+db_port = False
+db_sslmode = prefer
+db_template = template0
+db_user = False
+dbfilter = 
+demo = {}
+email_from = False
+geoip_database = /usr/share/GeoIP/GeoLite2-City.mmdb
+http_enable = True
+http_interface = 
+http_port = 8069
+import_partial = 
+limit_memory_hard = 2684354560
+limit_memory_soft = 2147483648
+limit_request = 8192
+limit_time_cpu = 600
+limit_time_real = 1200
+limit_time_real_cron = -1
+list_db = True
+log_db = False
+log_db_level = warning
+log_handler = :INFO
+log_level = info
+logfile = None
+logrotate = False
+longpolling_port = 8072
+max_cron_threads = 2
+osv_memory_age_limit = 1.0
+osv_memory_count_limit = False
+pg_path = None
+pidfile = None
+proxy_mode = False
+reportgz = False
+server_wide_modules = base,web
+smtp_password = False
+smtp_port = 25
+smtp_server = localhost
+smtp_ssl = False
+smtp_user = False
+syslog = False
+test_enable = False
+test_file = False
+test_tags = None
+translate_modules = ['all']
+unaccent = False
+without_demo = False
+workers = 1
+
